@@ -1,3 +1,3 @@
 # uber.com
 
-https://thehumankind.github.io/uber-index.html/
+https://thehumankind.github.io/uber.com/
